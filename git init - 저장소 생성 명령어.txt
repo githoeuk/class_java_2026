@@ -1,0 +1,13 @@
+git init - 저장소 생성 명령어
+git status - 저장소에 현재 파일 상태를 확인하느 명령어 
+로컬 -> git add 파일 이름 - 준비 -> git commitg -m '최초저장' -> 스냅샷
+git checkout 해쉬값 - 전에 저장했던 파일로 돌아가기
+git checkout master - 현재로 돌아오기
+
+원격지에 저장소 생성
+원격지 저장소 복제 방법 clone
+git clone " 저장소 주소"
+gitignire파일은 미리 수정하고 저장소를 생성하자
+
+git config --global user.name  "githoeuk"
+git config --global user.email "dnrdlwlsdl@gmail.com"
